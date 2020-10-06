@@ -1,0 +1,119 @@
+body {
+    background-color: #0e0924;
+}
+
+.fa-leaf {
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+.fa-home {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-hashtag {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-bell {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-envelope {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-bookmark {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-list {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.fa-user {
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+
+}
+
+.fa-ellipsis-h {
+    color: white;
+    margin-right: 15px;
+}
+
+h4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    background-color: #1DA1F2;
+    border: none;
+    color: white;
+    width: 175px;
+    height: 35px;
+    border-radius: 25px;
+}
+/*   END LEFT SECTION   */
+
+
+/*   START MIDDLE SECTION   */
+
+#profilephoto {
+    height: 45px;
+    border-radius: 50%;
+}
+
+.button2 {
+    background-color: #1DA1F2;
+    border: none;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: 350px;
+    margin-top: 10px;
+    
+}
+.button3 {
+    background-color: #1DA1F2;
+    border: none;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+/*.block {
+    background-color: lightgray;
+    height: 100px;
+} */
+
+
+
+
+
+/*   END MIDDLE SECTION   */
+
+/*   START RIGHT SECTION   */
+
+p {
+    color: lightgray;
+    font-size: 12px;
+}
